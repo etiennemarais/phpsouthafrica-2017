@@ -22,3 +22,6 @@ A repo that contains the resources of the talk, link to slides and notes.
 
 - [Superbalist](https://github.com/Superbalist)
 - [ngrok](https://ngrok.com/)
+- [FriendsOfPHP/PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+- [cpliakas/git-wrapper](https://github.com/cpliakas/git-wrapper)
+- [GrahamCampbell/Laravel-GitHub](https://github.com/GrahamCampbell/Laravel-GitHub)
